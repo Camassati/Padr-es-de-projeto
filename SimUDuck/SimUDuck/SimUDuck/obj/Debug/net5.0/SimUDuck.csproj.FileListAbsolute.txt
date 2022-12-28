@@ -1,0 +1,16 @@
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.exe
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.deps.json
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.runtimeconfig.json
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.runtimeconfig.dev.json
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.dll
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\bin\Debug\net5.0\SimUDuck.pdb
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.csproj.AssemblyReference.cache
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.GeneratedMSBuildEditorConfig.editorconfig
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.AssemblyInfoInputs.cache
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.AssemblyInfo.cs
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.csproj.CoreCompileInputs.cache
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.dll
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\refint\SimUDuck.dll
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.pdb
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\SimUDuck.genruntimeconfig.cache
+G:\Gustavo\Padrões de projeto\SimUDuck\SimUDuck\SimUDuck\obj\Debug\net5.0\ref\SimUDuck.dll
