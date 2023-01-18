@@ -1,0 +1,16 @@
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.exe
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.deps.json
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.runtimeconfig.json
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.runtimeconfig.dev.json
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.dll
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\bin\Debug\net5.0\Observer.C_Sharp.pdb
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.csproj.AssemblyReference.cache
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.AssemblyInfoInputs.cache
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.AssemblyInfo.cs
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.csproj.CoreCompileInputs.cache
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.dll
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\refint\Observer.C_Sharp.dll
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.pdb
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\Observer.C_Sharp.genruntimeconfig.cache
+E:\Programação\Padrao-de-projetos\Observer\Observer.C_Sharp\Observer.C_Sharp\obj\Debug\net5.0\ref\Observer.C_Sharp.dll

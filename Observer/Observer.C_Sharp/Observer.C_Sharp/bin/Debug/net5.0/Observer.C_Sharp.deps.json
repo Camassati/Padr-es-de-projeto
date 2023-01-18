@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Observer.C_Sharp/1.0.0": {
+        "runtime": {
+          "Observer.C_Sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Observer.C_Sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
