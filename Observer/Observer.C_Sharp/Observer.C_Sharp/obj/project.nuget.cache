@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/sL2e2FrRofckqgcD1y9bpunZeFc85eSAGD2VDJG454aww2BFCxTkIo9SGqwGqdhjKb/0JcQoxvr9gp1SxenPg==",
+  "dgSpecHash": "4EdCGy4jsrKw2jMW1ywqJT/SuBmDWPDU7+uZZ8VH94WVBycAi8k0PrkVeSnWB/h9H83lizuonQ98XHPQIcZOog==",
   "success": true,
-  "projectFilePath": "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fir4s\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

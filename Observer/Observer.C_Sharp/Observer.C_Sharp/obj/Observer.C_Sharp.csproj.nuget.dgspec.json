@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj": {}
+    "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj": {}
   },
   "projects": {
-    "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj": {
+    "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
+        "projectUniqueName": "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
         "projectName": "Observer.C_Sharp",
-        "projectPath": "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
+        "projectPath": "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\Observer.C_Sharp.csproj",
         "packagesPath": "C:\\Users\\Fir4s\\.nuget\\packages\\",
-        "outputPath": "E:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\obj\\",
+        "outputPath": "F:\\Programação\\Padrao-de-projetos\\Observer\\Observer.C_Sharp\\Observer.C_Sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fir4s\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,12 +50,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
