@@ -1,0 +1,15 @@
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\bin\Debug\net7.0\Decorator.exe
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\bin\Debug\net7.0\Decorator.deps.json
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\bin\Debug\net7.0\Decorator.runtimeconfig.json
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\bin\Debug\net7.0\Decorator.dll
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\bin\Debug\net7.0\Decorator.pdb
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.csproj.AssemblyReference.cache
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfoInputs.cache
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.AssemblyInfo.cs
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.csproj.CoreCompileInputs.cache
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.dll
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\refint\Decorator.dll
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.pdb
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\Decorator.genruntimeconfig.cache
+F:\Programação\projetinhos\UdemyProject\Remember\Decorator\Decorator\obj\Debug\net7.0\ref\Decorator.dll
