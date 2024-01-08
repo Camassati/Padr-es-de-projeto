@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\bin\Debug\net7.0\SingletonPattern.exe
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\bin\Debug\net7.0\SingletonPattern.deps.json
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\bin\Debug\net7.0\SingletonPattern.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\bin\Debug\net7.0\SingletonPattern.dll
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\bin\Debug\net7.0\SingletonPattern.pdb
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.dll
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\refint\SingletonPattern.dll
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.pdb
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\SingletonPattern.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Factory\Factory.C#\SingletonPattern\SingletonPattern\obj\Debug\net7.0\ref\SingletonPattern.dll
