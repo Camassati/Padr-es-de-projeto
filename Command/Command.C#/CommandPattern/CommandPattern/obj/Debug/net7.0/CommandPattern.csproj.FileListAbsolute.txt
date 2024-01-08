@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\bin\Debug\net7.0\CommandPattern.exe
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\bin\Debug\net7.0\CommandPattern.deps.json
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\bin\Debug\net7.0\CommandPattern.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\bin\Debug\net7.0\CommandPattern.dll
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\bin\Debug\net7.0\CommandPattern.pdb
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.dll
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\refint\CommandPattern.dll
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.pdb
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\CommandPattern.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Command\Command.C#\CommandPattern\CommandPattern\obj\Debug\net7.0\ref\CommandPattern.dll
