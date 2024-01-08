@@ -1,0 +1,22 @@
+﻿using FactoryMethod.ConcretePrroduct;
+using FactoryMethod.Creator;
+using FactoryMethod.Product;
+
+namespace FactoryMethod.ConcreteCreator
+{
+    public class TitaniumFactory : CartaoFactory
+    {
+        private int _limiteCredito;
+        private int _cobrancaAnual;
+        public TitaniumFactory(int limiteCredito, int cobrancaAnual)
+        {
+            this._limiteCredito = limiteCredito;
+            this._cobrancaAnual = cobrancaAnual;
+        }
+
+        public override CartaoDeCredito BuscarCartaoDeCredito()
+        {
+            return new CartãoTitanio(_limiteCredito, _cobrancaAnual);
+        }
+    }
+}
