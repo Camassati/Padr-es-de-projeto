@@ -1,0 +1,17 @@
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\AdapterPattern.exe
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\AdapterPattern.deps.json
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\AdapterPattern.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\AdapterPattern.dll
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\AdapterPattern.pdb
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\bin\Debug\net7.0\Newtonsoft.Json.dll
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.csproj.CopyComplete
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.dll
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\refint\AdapterPattern.dll
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.pdb
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\AdapterPattern.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Adapter\Adapter.C#\AdapterPattern\obj\Debug\net7.0\ref\AdapterPattern.dll

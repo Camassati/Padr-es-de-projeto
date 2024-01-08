@@ -1,0 +1,5 @@
+F:\Programação\Padrao-de-projetos\Facate\FacateC#\FacateC#\obj\Debug\net7.0\FacateC#.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Facate\FacateC#\FacateC#\obj\Debug\net7.0\FacateC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Facate\FacateC#\FacateC#\obj\Debug\net7.0\FacateC#.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Facate\FacateC#\FacateC#\obj\Debug\net7.0\FacateC#.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Facate\FacateC#\FacateC#\obj\Debug\net7.0\FacateC#.csproj.CoreCompileInputs.cache
