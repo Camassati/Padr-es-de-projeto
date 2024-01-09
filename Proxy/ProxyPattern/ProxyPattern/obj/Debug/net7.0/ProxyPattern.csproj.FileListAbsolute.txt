@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\bin\Debug\net7.0\ProxyPattern.exe
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\bin\Debug\net7.0\ProxyPattern.deps.json
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\bin\Debug\net7.0\ProxyPattern.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\bin\Debug\net7.0\ProxyPattern.dll
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\bin\Debug\net7.0\ProxyPattern.pdb
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.dll
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\refint\ProxyPattern.dll
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.pdb
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ProxyPattern.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Proxy\ProxyPattern\ProxyPattern\obj\Debug\net7.0\ref\ProxyPattern.dll
