@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\bin\Debug\net7.0\StatePatternC#.exe
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\bin\Debug\net7.0\StatePatternC#.deps.json
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\bin\Debug\net7.0\StatePatternC#.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\bin\Debug\net7.0\StatePatternC#.dll
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\bin\Debug\net7.0\StatePatternC#.pdb
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.dll
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\refint\StatePatternC#.dll
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.pdb
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\StatePatternC#.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\State\StatePatternC#\StatePatternC#\obj\Debug\net7.0\ref\StatePatternC#.dll
