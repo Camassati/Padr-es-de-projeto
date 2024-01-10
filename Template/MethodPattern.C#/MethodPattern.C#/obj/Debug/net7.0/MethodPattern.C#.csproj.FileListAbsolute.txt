@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\bin\Debug\net7.0\MethodPattern.C#.exe
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\bin\Debug\net7.0\MethodPattern.C#.deps.json
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\bin\Debug\net7.0\MethodPattern.C#.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\bin\Debug\net7.0\MethodPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\bin\Debug\net7.0\MethodPattern.C#.pdb
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\refint\MethodPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.pdb
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\MethodPattern.C#.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Method\MethodPattern.C#\MethodPattern.C#\obj\Debug\net7.0\ref\MethodPattern.C#.dll

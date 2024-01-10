@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\bin\Debug\net7.0\CompositePatternC#.exe
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\bin\Debug\net7.0\CompositePatternC#.deps.json
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\bin\Debug\net7.0\CompositePatternC#.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\bin\Debug\net7.0\CompositePatternC#.dll
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\bin\Debug\net7.0\CompositePatternC#.pdb
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.dll
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\refint\CompositePatternC#.dll
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.pdb
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\CompositePatternC#.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Proxy\CompositePatternC#\CompositePatternC#\obj\Debug\net7.0\ref\CompositePatternC#.dll
