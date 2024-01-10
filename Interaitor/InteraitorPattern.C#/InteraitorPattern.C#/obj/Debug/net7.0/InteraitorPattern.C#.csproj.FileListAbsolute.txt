@@ -1,0 +1,15 @@
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\bin\Debug\net7.0\InteraitorPattern.C#.exe
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\bin\Debug\net7.0\InteraitorPattern.C#.deps.json
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\bin\Debug\net7.0\InteraitorPattern.C#.runtimeconfig.json
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\bin\Debug\net7.0\InteraitorPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\bin\Debug\net7.0\InteraitorPattern.C#.pdb
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.csproj.AssemblyReference.cache
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.AssemblyInfoInputs.cache
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.AssemblyInfo.cs
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.csproj.CoreCompileInputs.cache
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\refint\InteraitorPattern.C#.dll
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.pdb
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\InteraitorPattern.C#.genruntimeconfig.cache
+F:\Programação\Padrao-de-projetos\Interaitor\InteraitorPattern.C#\InteraitorPattern.C#\obj\Debug\net7.0\ref\InteraitorPattern.C#.dll
